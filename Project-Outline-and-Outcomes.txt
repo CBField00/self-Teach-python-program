@@ -1,0 +1,62 @@
+The point of the program is to create a small learning application, using python, to help learn the language.
+The aim of it is to use a basic syntax checker for any input code that the user inputs to help identify where they went wrong, allowing
+an interactive learning tool.
+
+
+
+Key Project Components:
+
+- Be able to teach python as accurately as possible with the basic concepts
+    - Data Types
+        - Strings
+        - Integers
+        - Floats
+        - Booleans
+        - Character
+
+            - Implicit and Explicit Switiching between Datatypes
+                - Using str, int, bool, float and chr
+                - being able to switch between the str and int datatypes, for mathematical operations.
+
+
+    - Operations
+        - Addition (+)
+        - Subtraction (-)
+        - Multiplication (*)
+        - Division (/)
+        - Modulus (%)
+        - Exponent (**)
+        - Floor Division (//)
+        - Not Equal to (<>)
+            - NOTE THIS IS SIMILAR TO != HOWEVER IT WILL RETURN A BOOLEAN PRODUCT
+
+
+
+    - Conditions and Boolean conditionals
+        - If statements
+        - elif branches
+        - if and else statements and trees
+
+        using an if, elif and else tree s
+
+        - while statements
+
+        - Nesting Conditions
+
+        - The same as or equal to (==)
+        - Not the same as or equal to (!=)
+        - Less than or equal to (<=)
+        - Greater than or equal to (>=)
+
+    - Functions
+        - Defining Functions
+        - The Reason for having functions
+        - parenthesis
+
+    - importing modules
+        - using import and from ""module"" import*
+        - useful modules
+
+
+
+
